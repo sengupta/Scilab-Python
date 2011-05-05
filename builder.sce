@@ -6,8 +6,8 @@
 mode(-1);
 lines(0);
 
-TOOLBOX_NAME  = "JSON";
-TOOLBOX_TITLE = "The Scilab JSON Toolbox";
+TOOLBOX_NAME  = "Python";
+TOOLBOX_TITLE = "A Scilab-Python Gateway";
 toolbox_dir   = get_absolute_file_path("builder.sce");
 
 // Check Scilab's version
